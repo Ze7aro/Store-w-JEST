@@ -31,6 +31,7 @@
     "array-bracket-spacing": 2,
     "arrow-body-style": 0,
     "block-scoped-var": 2,
+    "import/no-extraneous-dependencies": "[error, { devDependencies: true }]",
     "brace-style": [
       2,
       "1tbs",
